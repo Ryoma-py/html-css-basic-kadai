@@ -52,7 +52,7 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
 }
 #bottom-child01 {
   top: 0;
